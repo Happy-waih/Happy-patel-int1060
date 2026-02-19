@@ -1,1 +1,2 @@
-Happy Birthday ! Have a nice life !
+This is an index file.
+This is a remote line
